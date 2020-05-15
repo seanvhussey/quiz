@@ -7,8 +7,8 @@ user_input:
 correct:
  -->
 <!-- Make a basic layout in HTML using the correct divs -->
-<!-- Quiz start HTML -->
-<!-- Present questions and choices HTML -->
+<!-- Quiz start HTML => JS -->
+<!-- Present questions and choices HTML => JS -->
 <!-- event.listener for user choice -->
 <!-- Submit for each question event listener button# on.click -->
 <!-- log user choice -->
